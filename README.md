@@ -3,4 +3,4 @@ Alex A Zacco
 
 ## Task 2
 - Adding changes to the README.md file for task 2
-- Adding Test Branch change
+- Adding Test Branch changes
